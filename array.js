@@ -4,4 +4,4 @@ var buildings2 = buildings.push('banani tower');
 
 var buildings1 = ['bruij khalifa' , 'tein tower' , 'ghulshan tower'];
 var buildings3 = buildings1.pop();
-// console.log(buildings1);
+console.log(buildings1);
